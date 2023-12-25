@@ -3,6 +3,6 @@ My solution (modeling.ipynb) to the data problem from the final exam of POLISCI 
 
 Citations (for the source of the data), courtesy of Professor de Marchi: 
 
-Government Formation in the Shadow of an Uncertain Future Election (Scott de Marchi, Michael Laver, and Georg Vanberg). Forthcoming. In Edward Elgar Handbook of Coalition Politics.
+Government formation as logrolling in high-dimensional issue spaces (Scott de Marchi and Michael Laver). 2020. Journal of Politics.
 
 Government Formation in the Shadow of an Uncertain Future Election (Scott de Marchi, Michael Laver, and Georg Vanberg). Forthcoming. In Edward Elgar Handbook of Coalition Politics.
