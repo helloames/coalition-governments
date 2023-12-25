@@ -3,7 +3,7 @@ I modeled and predicted the proportion of cabinet ministries each party gains fr
 
 **Accuracy of final model:** train R2 of 1.0, test R2 of 0.8895608931555545, train MSE of 0.0, and test MSE of 0.005653300880198345
 
-Final model (decision tree) was overfit on training set, and my future plans for this data: 1) exploring whether or not it’s possible to get rid of interaction terms in a polynomial regression in sklearn and 2) implementing a k-fold cross validation to search for an alpha value to create a non-overfit decision tree.
+Final model (decision tree) was overfit on training set, and my future plans for this project: 1) exploring whether or not it’s possible to get rid of interaction terms in a polynomial regression in sklearn and 2) implementing a k-fold cross validation to search for an alpha value to create a non-overfit decision tree.
 
 **modeling.ipynb** - my code and models (networks, decision trees, polynomial regressions, XGBoost).
 
