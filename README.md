@@ -12,7 +12,7 @@ Final model (decision tree) was overfit on training set, and my future plans for
 *model-interpretations.pdf* - write-up and interpretation of models.
 
 
-Citations (for the source of the data), courtesy of Professor de Marchi: 
+/Citations (for the source of the data), courtesy of Professor de Marchi:/
 
 Government formation as logrolling in high-dimensional issue spaces (Scott de Marchi and Michael Laver). 2020. Journal of Politics.
 
