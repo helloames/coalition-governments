@@ -13,5 +13,7 @@ Final model (decision tree) was overfit on training set, and my future plans for
 
 
 Citations (for the source of the data), courtesy of Professor de Marchi: 
+
 Government formation as logrolling in high-dimensional issue spaces (Scott de Marchi and Michael Laver). 2020. Journal of Politics.
+
 Government Formation in the Shadow of an Uncertain Future Election (Scott de Marchi, Michael Laver, and Georg Vanberg). Forthcoming. In Edward Elgar Handbook of Coalition Politics.
